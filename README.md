@@ -1,4 +1,3 @@
-# androidunlock
-模仿ios解锁
-
-
+##模仿IOS解锁控件
+####1.0 
+重写了imageview，用的是scrollto，所以要在外面套个背景，最好背景里面别放其他东西，不然也会跟着移动。
